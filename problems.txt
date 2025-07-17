@@ -1,5 +1,5 @@
 // Problem: problems
-// Language: 60 ms
+// Language: 51 ms
 // Status: Accepted
 
 // Your accepted solution was here
